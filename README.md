@@ -13,7 +13,7 @@ Next, a call was made to Google places API to locate hotels in each city listed 
 
 Finally, an itinerary connecting the chosen cities was created using directions API.
 
-![WeatherPy_travel_map.png](Vacation_Itinerary.WeatherPy_travel_map.png)
+![WeatherPy_travel_map.png](Vacation_Itinerary/WeatherPy_travel_map.png)
 
 ## Summary
 
